@@ -6,4 +6,4 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 
-*visist https://kurofavo.github.io/robofriends/ for more*
+*visist https://kurofavo.github.io/robofriends/ to see the responsive app*
